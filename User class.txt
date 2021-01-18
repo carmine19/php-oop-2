@@ -1,0 +1,9 @@
+﻿User class database
+
+Id INT, PRIMARY KEY (=> AUTO_INCREMENT, NOT NULL, UNIQUE, INDEX)
+
+-name -> VARCHAR(20), NOT NULL
+-surname -> VARCHAR(20), NOT NULL
+-age -> TINYINT, NOT NULL
+-e_mail ->  VARCHAR(50), NOT NULL
+
